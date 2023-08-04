@@ -1,0 +1,25 @@
+.slide-background{
+    background-color: #fceae8;
+}
+.slider{
+    border-radius: 5px;
+}
+.categories img{
+width: 100px;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.watch-catagory{
+    background-color: orange;
+}
+.bag-catagory{
+    background-color: orchid;
+}
+.shoe-catagory{
+    background-color: crimson;
+}
